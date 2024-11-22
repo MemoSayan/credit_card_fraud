@@ -1,0 +1,44 @@
+# Archivos generados por Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos y directorios relacionados con Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb~
+
+# Salidas y datos temporales
+*.csv
+*.tsv
+*.log
+*.out
+*.dat
+*.tmp
+
+# Archivos de configuración del entorno
+*.env
+*.DS_Store
+*.coverage
+*.vscode/
+*.idea/
+
+# Directorios de dependencias
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# Archivos de salida de Jupyter Notebook
+**/Figures/
+*.svg
+*.png
+*.jpg
+
